@@ -1,5 +1,6 @@
 1. **Reservations:** Want flexibility (VM family, size, region) and run many types of compute resources.
 2. **Savings plan:** Know exactly what VM type and region you'll use continuously over time.
+   
    <img width="806" height="278" alt="diff savings plan vs reservations" src="https://github.com/user-attachments/assets/e4ff0856-f4e5-4636-a78b-cb696c57fdef" />
 
 
