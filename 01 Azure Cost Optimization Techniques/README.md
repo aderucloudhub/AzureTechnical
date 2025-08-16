@@ -9,7 +9,7 @@
      Azure will automatically apply the discount across any VM or eligible compute service you use—regardless of size, series, or region—until you reach your $10/hour commitment.
    
        
-<img width="806" height="278" alt="diff savings plan vs reservations" src="https://github.com/user-attachments/assets/d632f045-d1ba-4621-9874-3dfdff8ac667" />
+     <img width="806" height="278" alt="diff savings plan vs reservations" src="https://github.com/user-attachments/assets/d632f045-d1ba-4621-9874-3dfdff8ac667" />
 
 3. **Right sizing the workloads:** Continuously monitor resource utilization and adjust workload sizes as needed to ensure optimal performance and cost efficiency.
    
